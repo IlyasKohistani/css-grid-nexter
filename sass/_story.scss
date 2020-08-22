@@ -32,6 +32,13 @@
     &__content{
         grid-column:   col-start 5 / full-end ;
         padding: 6rem 8vw;
+        
+    background-image: linear-gradient(rgba(#fff, 0.9),rgba(#fff, 0.9)), url("../img/select-house.svg");
+    background-size: 100% 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    background-color:$color-primary-50;
 
         // display: flex;
         // flex-direction: column;

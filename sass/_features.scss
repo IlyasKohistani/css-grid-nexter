@@ -2,6 +2,10 @@
     grid-column: center-start / center-end;
     margin:15rem 0 0 0;
 
+    background-image: linear-gradient(rgba(#fff, 0.92),rgba(#fff, 0.92)), url("../img/compound.svg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
     display: grid;
     //grid-template-columns: repeat(3, 1fr);
     //make columns as many fit inside grid element
@@ -16,7 +20,7 @@
     &__svg {
         grid-column: full-start / full-end;
         margin-top: -2rem;
-        margin-bottom: -1px;
+        margin-bottom: -0.53px;
         -webkit-transform: scale(-1);
         transform: scale(-1);
         
