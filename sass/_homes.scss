@@ -1,4 +1,4 @@
-.homes{
+.homes {
     grid-column: center-start / center-end;
     margin-bottom: 15rem;
     // background-image: url("../img/wave.svg");
@@ -7,15 +7,15 @@
     // background-size: cover;
 
     display: grid;
-    grid-template-columns:  repeat(auto-fit, minmax(25rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
     grid-gap: 7rem;
 
-
-
-
+    @media only screen and (max-width: $bp-midum) {
+        margin-bottom: 6rem;
+    }
 }
 
-.home{
+.home {
     background-color: $color-grey-light-1;
 
     display: grid;
@@ -38,9 +38,9 @@
         margin: 1rem;
         z-index: 2;
     }
-    &__name{
+    &__name {
         font-size: 1.6rem;
-        color:#fff;
+        color: #fff;
         background-color: $color-secondary;
         padding: 1rem;
         grid-row: 1 /2;
@@ -53,10 +53,8 @@
         font-weight: 400;
         width: 80%;
         transform: translateY(50%);
-
     }
 
-    
     &__location,
     &__rooms {
         margin-top: 2.5rem;
@@ -66,7 +64,6 @@
     &__rooms,
     &__area,
     &__price {
-
         display: flex;
         align-items: center;
         margin-left: 2rem;
@@ -77,11 +74,6 @@
             width: 2rem;
             height: 2rem;
             margin-right: 1rem;
-        }
-
-        p {
-
-
         }
     }
 
