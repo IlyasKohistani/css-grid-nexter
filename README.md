@@ -1,6 +1,6 @@
 # Nexter Advanced CSS Grid
 
-[![GitHub Stars](https://img.shields.io/github/stars/IlyasKohistani/cssGridProject.svg)](https://github.com/IlyasKohistani/cssGridProject/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IlyasKohistani/cssGridProject.svg)](https://github.com/IlyasKohistani/cssGridProject/issues) [![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/IlyasKohistani/cssGridProject) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://github.com/IlyasKohistani/cssGridProject)
+[![GitHub Stars](https://img.shields.io/github/stars/IlyasKohistani/cssGridProject.svg)](https://github.com/IlyasKohistani/cssGridProject/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IlyasKohistani/cssGridProject.svg)](https://github.com/IlyasKohistani/cssGridProject/issues) [![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/IlyasKohistani/cssGridProject) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://ilyaskohistani.github.io/projects/css_grid/)
 
 A unique Design built with advanced CSS Grid AND SASS. You are 100% allowed to use this webpage for both personal and commercial use, but NOT to claim it as your own design.
 
